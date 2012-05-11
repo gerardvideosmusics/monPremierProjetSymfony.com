@@ -1,0 +1,1 @@
+[2012-05-11 14:38:38] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\xampp\htdocs\www\projet_symfony\monPremierProjetSymfony\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\EventListener\RouterListener.php line 83 [] []
